@@ -1,0 +1,20 @@
+{
+    "Abhinav": {
+        "pin": "1234",
+        "balance": 5500.0,
+        "history": [
+            "Checked balance",
+            "Deposited 500.0"
+        ]
+    },
+    "Alex": {
+        "pin": "1111",
+        "balance": 3000,
+        "history": []
+    },
+    "abhi": {
+        "pin": "2005",
+        "balance": 0,
+        "history": []
+    }
+}
